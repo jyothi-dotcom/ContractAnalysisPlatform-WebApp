@@ -3,6 +3,9 @@
 
 This is an LLM-powered contract analysis web application.
 
+## Application Architecture
+![alt text](architecture-image.png)
+
 ## Setup
 
 1. Clone the repository.
